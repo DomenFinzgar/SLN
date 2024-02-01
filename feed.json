@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SLN audio-visual consultancy",
+    "description": "",
+    "home_page_url": "https://domenfinzgar.github.io/SLN",
+    "feed_url": "https://domenfinzgar.github.io/SLN/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Domen Finzgar"
+    },
+    "items": [
+        {
+            "id": "https://domenfinzgar.github.io/SLN/sln-audiovisual.html",
+            "url": "https://domenfinzgar.github.io/SLN/sln-audiovisual.html",
+            "title": "SLN-audiovisual",
+            "summary": "To je proba",
+            "content_html": "<p>To je proba</p>",
+            "author": {
+                "name": "Domen Finzgar"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-02-01T20:57:19+00:00",
+            "date_modified": "2024-02-01T20:57:19+00:00"
+        }
+    ]
+}

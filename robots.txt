@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://domenfinzgar.github.io/SLN/sitemap.xml

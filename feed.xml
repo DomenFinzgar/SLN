@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>SLN audio-visual consultancy</title>
+    <link href="https://domenfinzgar.github.io/SLN/feed.xml" rel="self" />
+    <link href="https://domenfinzgar.github.io/SLN" />
+    <updated>2024-02-01T20:57:19+00:00</updated>
+    <author>
+        <name>Domen Finzgar</name>
+    </author>
+    <id>https://domenfinzgar.github.io/SLN</id>
+
+    <entry>
+        <title>SLN-audiovisual</title>
+        <author>
+            <name>Domen Finzgar</name>
+        </author>
+        <link href="https://domenfinzgar.github.io/SLN/sln-audiovisual.html"/>
+        <id>https://domenfinzgar.github.io/SLN/sln-audiovisual.html</id>
+
+        <updated>2024-02-01T20:57:19+00:00</updated>
+            <summary>
+                <![CDATA[
+                    To je proba
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>To je proba</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
