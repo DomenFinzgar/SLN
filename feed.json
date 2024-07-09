@@ -12,7 +12,8 @@
         {
             "id": "https://domenfinzgar.github.io/SLN/2.html",
             "url": "https://domenfinzgar.github.io/SLN/2.html",
-            "title": "2",
+            "title": "VISUAL",
+            "image": "https://domenfinzgar.github.io/SLN/media/posts/4/a1949871964_10.jpg",
             "author": {
                 "name": "Domen Finzgar"
             },
@@ -20,14 +21,15 @@
                    "HEADER"
             ],
             "date_published": "2024-07-09T20:31:07+01:00",
-            "date_modified": "2024-07-09T20:31:07+01:00"
+            "date_modified": "2024-07-09T23:06:40+01:00"
         },
         {
             "id": "https://domenfinzgar.github.io/SLN/1.html",
             "url": "https://domenfinzgar.github.io/SLN/1.html",
-            "title": "1",
+            "title": "AUDIO",
             "summary": " ",
             "content_html": "<div class=\"example\"> </div>",
+            "image": "https://domenfinzgar.github.io/SLN/media/posts/3/a1400842029_10.jpg",
             "author": {
                 "name": "Domen Finzgar"
             },
@@ -35,7 +37,7 @@
                    "HEADER"
             ],
             "date_published": "2024-07-09T20:27:31+01:00",
-            "date_modified": "2024-07-09T21:34:33+01:00"
+            "date_modified": "2024-07-09T23:06:29+01:00"
         },
         {
             "id": "https://domenfinzgar.github.io/SLN/about.html",
