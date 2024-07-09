@@ -80,7 +80,7 @@ html.no-scroll {
 }
 
 body {
-  background: var(--page-bg);
+  background: blue;
   color: var(--text-color);
   font-family: var(--font-body);
   font-variation-settings: "wght" var(--font-weight-normal);
@@ -89,7 +89,7 @@ body {
       overscroll-behavior: none;
 }
 
-body {
+ena {
   background: pink;
   color: var(--text-color);
   font-family: var(--font-body);
@@ -1472,6 +1472,7 @@ textarea {
   }
 }
 .featured__slider {
+    background: pink;
   position: relative;
 }
 .featured__viewport {
@@ -2144,6 +2145,7 @@ textarea {
 }
 
 .footer {
+    background: green;
   border-top: 3px solid var(--dark);
   padding: calc(var(--magic-number) * 2) 0 var(--magic-number);
   margin: calc(var(--magic-number) * 1.5) 0 0;
@@ -2156,9 +2158,11 @@ textarea {
   }
 }
 .footer h3 {
+    
   margin: 0 0 1.25rem;
 }
 .footer__top {
+    
   display: grid;
   grid-template-columns: 100%;
   grid-template-areas: "col1" "col2" "col3" "col4";
@@ -2179,26 +2183,33 @@ textarea {
 }
 @media all and (min-width: 100em) {
   .footer__top {
+      
     grid-template-columns: 52% 1fr 1fr 1fr;
   }
 }
 .footer__col1 {
+    
   grid-area: col1;
 }
 .footer__col2 {
+    
   grid-area: col2;
 }
 .footer__col3 {
+    
   grid-area: col3;
 }
 .footer__col4 {
+    
   grid-area: col4;
 }
 .footer__nav {
+    
   margin: 1rem 0 0;
   list-style: none;
 }
 .footer__nav li {
+    
   padding: 0 0 0.25rem;
 }
 .footer__newsletter {
@@ -2261,10 +2272,12 @@ textarea {
   text-indent: -99999rem;
 }
 .footer__bottom {
+    
   margin-top: calc(5 * var(--magic-number));
 }
 @media all and (max-width: 56.1875em) {
   .footer__bottom {
+   
     border-top: 1px solid var(--dark);
     margin-top: calc(2 * var(--magic-number));
     padding: var(--magic-number) 0 0;
@@ -2272,17 +2285,21 @@ textarea {
   }
 }
 .footer__copyright {
+  
   font-size: 0.7241964329rem;
   text-transform: uppercase;
 }
 .footer__social {
+  
   margin-bottom: 0.5rem;
 }
 .footer__social a {
+  
   display: inline-block;
   padding: 0 1rem 0 0;
 }
 .footer__social a > svg {
+  
   display: inline-block;
   fill: currentColor;
   height: 0.9374999997rem;
