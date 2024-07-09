@@ -9,5 +9,61 @@
         "name": "Domen Finzgar"
     },
     "items": [
+        {
+            "id": "https://domenfinzgar.github.io/SLN/2.html",
+            "url": "https://domenfinzgar.github.io/SLN/2.html",
+            "title": "2",
+            "author": {
+                "name": "Domen Finzgar"
+            },
+            "tags": [
+                   "HEADER"
+            ],
+            "date_published": "2024-07-09T20:31:07+01:00",
+            "date_modified": "2024-07-09T20:31:07+01:00"
+        },
+        {
+            "id": "https://domenfinzgar.github.io/SLN/1.html",
+            "url": "https://domenfinzgar.github.io/SLN/1.html",
+            "title": "1",
+            "author": {
+                "name": "Domen Finzgar"
+            },
+            "tags": [
+                   "HEADER"
+            ],
+            "date_published": "2024-07-09T20:27:31+01:00",
+            "date_modified": "2024-07-09T20:31:34+01:00"
+        },
+        {
+            "id": "https://domenfinzgar.github.io/SLN/about.html",
+            "url": "https://domenfinzgar.github.io/SLN/about.html",
+            "title": "ABOUT",
+            "summary": "I am ta pa ta Lorem ipsum pridite pogledat kaj delam",
+            "content_html": "<p>I am ta pa ta Lorem ipsum pridite pogledat kaj delam</p>",
+            "author": {
+                "name": "Domen Finzgar"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-09T19:59:07+01:00",
+            "date_modified": "2024-07-09T19:59:07+01:00"
+        },
+        {
+            "id": "https://domenfinzgar.github.io/SLN/audio.html",
+            "url": "https://domenfinzgar.github.io/SLN/audio.html",
+            "title": "PROBA",
+            "summary": "TO JE Proba za Audio del",
+            "content_html": "<p>TO JE Proba za Audio del</p>",
+            "image": "https://domenfinzgar.github.io/SLN/media/posts/1/Domi_Jordan.jpg",
+            "author": {
+                "name": "Domen Finzgar"
+            },
+            "tags": [
+                   "AUDIO"
+            ],
+            "date_published": "2024-07-09T19:31:58+01:00",
+            "date_modified": "2024-07-09T19:51:45+01:00"
+        }
     ]
 }
