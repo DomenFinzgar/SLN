@@ -3,7 +3,7 @@
     <title>SLN</title>
     <link href="https://domenfinzgar.github.io/SLN/feed.xml" rel="self" />
     <link href="https://domenfinzgar.github.io/SLN" />
-    <updated>2024-07-09T20:31:34+01:00</updated>
+    <updated>2024-07-09T21:34:33+01:00</updated>
     <author>
         <name>Domen Finzgar</name>
     </author>
@@ -32,8 +32,16 @@
             <category term="HEADER"/>
 
         <updated>2024-07-09T20:27:31+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="example"> </div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>ABOUT</title>

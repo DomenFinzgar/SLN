@@ -89,6 +89,16 @@ body {
       overscroll-behavior: none;
 }
 
+body {
+  background: pink;
+  color: var(--text-color);
+  font-family: var(--font-body);
+  font-variation-settings: "wght" var(--font-weight-normal);
+  line-height: var(--line-height);
+  -ms-scroll-chaining: none;
+      overscroll-behavior: none;
+}
+
 a {
   color: var(--link-color);
   text-decoration: none;
