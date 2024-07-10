@@ -13,12 +13,12 @@ window.addEventListener('scroll', function (e) {
 
 		// Scrolling up
 	} else if (new_scroll_position > last_scroll_position) {
-		header.classList.remove("is-visible");
-		header.classList.add("is-hidden");
+		header.classList.remove("is-hidden");
+		header.classList.add("is-visible");
 	}
 
 	if (last_scroll_position < 1) {
-		header.classList.remove("is-visible");
+		header.classList.remove("is-hidden");
 	}
 
 	new_scroll_position = last_scroll_position;
